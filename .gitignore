@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Binary & large artifacts
+*.zip
+*.pt
+**/__pycache__/
+*.pyc
+
+# (optional) training runs / results
+src/results/

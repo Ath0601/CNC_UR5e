@@ -1,0 +1,25 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: trialpkg
+    relative_path: urdf/ur5e_corrected_with_tcp.urdf.xacro
+  srdf:
+    relative_path: config/ur5e.srdf
+  package_settings:
+    author_name: atharva
+    author_email: atharva@todo.todo
+    generated_timestamp: 1754833402
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity

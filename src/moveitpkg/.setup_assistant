@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: trialpkg
+    relative_path: urdf/ur5e_corrected.urdf.xacro
+  srdf:
+    relative_path: config/ur5e.srdf
+  package_settings:
+    author_name: atharva
+    author_email: atharva@todo.todo
+    generated_timestamp: 1753366256
