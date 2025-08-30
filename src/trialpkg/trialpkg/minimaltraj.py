@@ -173,7 +173,7 @@ class StraightGcodeExecutor(Node):
         self.sample_rate = 50.0         # Hz sampling of executed TCP via TF
 
         # Spindle & power
-        self.spindle_rpm_cmd = 1500.0   # can be overridden via /spindle_rpm_cmd
+        self.spindle_rpm_cmd = -1500.0   # can be overridden via /spindle_rpm_cmd
         self.spindle_axis = 'y'         # use 'x'/'y' if torque axis differs
 
         # Feed rate (mm/min) from /gcode_feed_rate
