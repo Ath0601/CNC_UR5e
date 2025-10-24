@@ -3,7 +3,7 @@ MSc Thesis for Precision CNC Machining using UR5e
 ## Images
 
 ### ROS2 Simulation Setup
-<img src="Sim_Setup_1.jpg" width="600" alt="ROS2 Simulation Setup">
+<img src="Sim_Setup_1.png" width="600" alt="ROS2 Simulation Setup">
 
 ### YOLO Model for Block Detection  
 <img src="yolodetect.jpg" width="500" alt="YOLO Model for Block Detection">
