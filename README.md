@@ -12,7 +12,4 @@ MSc Thesis for Precision CNC Machining using UR5e
 <img src="corner_robot.jpg" width="600" alt="Robot moving to corner position">
 
 ### Video
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/Ath0601/CNC_UR5e/main/CNC%20UR5e%20Sim%20Demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[**Video Link**](https://raw.githubusercontent.com/Ath0601/CNC_UR5e/main/CNC%20UR5e%20Sim%20Demo.webm)
