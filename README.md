@@ -13,6 +13,6 @@ MSc Thesis for Precision CNC Machining using UR5e
 
 ### Video
 <video width="600" controls>
-  <source src="[https://github.com/Ath0601/CNC_UR5e/raw/refs/heads/main/CNC%20UR5e%20Sim%20Demo.webm](https://github.com/Ath0601/CNC_UR5e/raw/refs/heads/main/CNC%20UR5e%20Sim%20Demo.webm)" type="video/webm">
+  <source src="[[https://github.com/Ath0601/CNC_UR5e/raw/refs/heads/main/CNC%20UR5e%20Sim%20Demo.webm](https://github.com/Ath0601/CNC_UR5e/raw/refs/heads/main/CNC%20UR5e%20Sim%20Demo.webm)](https://github.com/Ath0601/CNC_UR5e/blob/main/CNC%20UR5e%20Sim%20Demo.webm)" type="video/webm">
   Your browser does not support the video tag.
 </video>
